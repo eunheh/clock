@@ -1,4 +1,3 @@
-
 function formatTime() {
   var nowTime = new Date();
   var hrs = nowTime.getHours();
