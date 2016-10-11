@@ -8,12 +8,13 @@
 
 .boxes {
   display: inline-block;
-  padding: 120px;
+  padding: 170px;
   width: 600px;
-  height: 300px;
+  height: 400px;
   color: white;
   font-size: 50px;
-  border-radius: 50px;
+  border-radius: 5px;
+  font-weight: bold;
 }
 
 #clock {
