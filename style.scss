@@ -9,6 +9,7 @@
 .boxes {
   display: inline-block;
   padding: 170px;
+  margin-top: 20px;
   width: 600px;
   height: 400px;
   color: white;
@@ -19,8 +20,4 @@
 
 #clock {
   background-color: grey;
-}
-
-#hex {
-  margin-top: 20px;
 }
