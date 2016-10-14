@@ -1,7 +1,7 @@
 #Clock
 
-##Set intervals and timers on JavaScript.
-##Using SASS to make CSS sassy
+###Set intervals and timers on JavaScript.
+###Using SASS to make CSS sassy
 
 1. Window Timer
   * setInterval(function () { console.log(“cooke”); }, 1000);
@@ -15,4 +15,4 @@
 
 
 Following is a link to the clock page:
-[Etsy Items](https://eunheh.github.io/clock/)
+[Clock](https://eunheh.github.io/clock/)
